@@ -33,10 +33,28 @@
 .empty-div {
   margin-bottom: 40px;
 }
-
 .button-greeting-div {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 16px;
   margin-top: 40px;
+
+  a {
+    text-decoration: none;
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+
+    .button,
+    .download-link-button {
+      width: 80%;
+      text-align: center;
+    }
+  }
 }
 .download-link-button {
   text-decoration: none;
