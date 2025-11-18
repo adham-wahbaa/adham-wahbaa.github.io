@@ -198,7 +198,7 @@ const openSource = {
 };
 
 // ================= Achievement Section =================
-const achievementSection = {
+const certification = {
   title: "Achievements",
   subtitle: "A few highlights of my journey so far",
   achievementsCards: [
@@ -282,7 +282,7 @@ export {
   workExperiences,
   openSource,
   bigProjects,
-  achievementSection,
+  certification,
   blogSection,
   talkSection,
   resumeSection,
