@@ -100,9 +100,10 @@ const techStack = {
 };
 
 // ================= Work Experience =================
-const certification = {
+const workExperiences = {
   display: true,
-  certification: [
+  title: "certification",
+  experience: [
     {
       role: "Flutter Developer Intern",
       company: "National Telecommunication Institute: NTI",
@@ -279,7 +280,7 @@ export {
   skillsSection,
   educationInfo,
   techStack,
-  certification,
+  workExperiences,
   openSource,
   bigProjects,
   achievementSection,
