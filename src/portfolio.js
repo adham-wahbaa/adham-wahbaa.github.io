@@ -22,7 +22,7 @@ const greeting = {
     "Flutter Developer specializing in building fast, beautiful, and scalable mobile and web apps using Flutter & Dart 🚀."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1CRMQKCTc3aQi7ckpfPX2aWBkpfy8Sulb/view?usp=sharing",
+    "https://drive.google.com/file/d/1pT1czRRNJgML-Flm8OCgYYqywu_8H_ip/view?usp=sharing",
   displayGreeting: true
 };
 
